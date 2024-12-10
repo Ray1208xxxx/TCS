@@ -2,7 +2,7 @@
 ## Carnegie Mellon University - Heinz College
 ## Fall 2024 Capstone
 
-### Team: Mbalenhle Holt, Pengrui Zeng, Pranav Naik, Abhineet Chaudhary & Chitra Raghavendrarao Krishnarao
+### Team: Mbalenhle B. Holt, Pengrui Zeng, Pranav Naik, Abhineet Chaudhary & Chitra Raghavendrarao Krishnarao
 
 ---
 
