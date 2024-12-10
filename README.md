@@ -1,6 +1,6 @@
 # TCS (Performance) IT Infrastructure Benchmarking Project
-## Fall 2024 Capstone
 ## Carnegie Mellon University - Heinz College
+## Fall 2024 Capstone
 
 ### Team: Mbalenhle Holt, Pengrui Zeng, Pranav Naik, Abhineet Chaudhary & Chitra Raghavendrarao Krishnarao
 
@@ -128,6 +128,18 @@ These visualizations collectively provide actionable insights into cost manageme
 2. **Refinement**: Improve metrics and algorithms for better results across all focus areas.
 3. **Training the Model**: Incorporate real-world feedback to train and fine-tune the framework's prediction and analysis capabilities.
 4. **Testing & Deployment**: Conduct iterative tests and deploy the framework incrementally within the organization or for clients.
+
+---
+
+## **Additional Resources**  
+
+### **Research Insights and Final Presentation**  
+This project includes detailed research insights and a comprehensive final presentation that provide further context, methodology, and findings related to the benchmarking framework.  
+
+- **Research Insights**: Explore in-depth analyses of benchmarking dimensions such as **Process**, **Security**, **Workforce Productivity**, and **Cost Efficiency**, including industry trends and evaluation metrics.  
+- **Final Presentation**: Access a structured summary of the project's purpose, scope, methodology, and recommendations for implementing the benchmarking framework.  
+
+These resources can be viewed within this GitHub repository.  
 
 ---
 
