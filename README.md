@@ -143,4 +143,4 @@ These resources can be viewed within this GitHub repository.
 
 ---
 
-A special thank you to TCS and CMU Heinz for the support of our final deliverable.
+A special thank you to TCS and CMU Heinz for the support of our capstone project.
